@@ -6,5 +6,4 @@ into sentences made the conversion to a relational model smooth. Keys and foreig
 implemented the normalized relations into Microsoft Access by writing SQL CREATE TABLE statements. Each column had a data type and a primary key and constraint were 
 assigned. We then used ALTER TABLE statements to create the relationships and add the foreign keys. INSERT statements were used to write data for the bookstore. 
 Afterwards, we constructed SQL queries to count how many books by genre, how many books published by year, and how many customers were in each membership level. We then 
-constructed SQL queries to INNER JOIN tables used for reports. We then made single-table forms for tables on the "One side" of one-to-many relationships, single-table forms  
-with a "lookup", master-detail forms to show one-to-many relationships, and master-detail-lookup forms to show one-to-many and many-to-one relationships.
+constructed SQL queries to INNER JOIN tables used for reports. We then made single-table forms for tables on the "One side" of one-to-many relationships, single-table forms with a "lookup", master-detail forms to show one-to-many relationships, and master-detail-lookup forms to show one-to-many and many-to-one relationships.
